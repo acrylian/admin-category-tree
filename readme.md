@@ -1,3 +1,5 @@
+**This is not a maintained fork taking over development. Just fixing a few issues as long as it generally works (which is does with WP 7.0)**
+
 Admin Category Tree
 ===========
 
